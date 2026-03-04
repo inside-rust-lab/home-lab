@@ -1,6 +1,6 @@
 # Home Lab Automation
 
-The purpose of this project is to familiarize myself with modern networking automation practices and to build the skills needed to implement them. My lab consists of an Adtran NetVanta 5660, Juniper SRX240, Cisco Catalyst 3650, and two Ubuntu servers. The goal is to fully automate the network and servers using tools such as Ansible, Python libraries like Netmiko and NAPALM, and Netconf APIs. Future plans include extending automation into the cloud and exploring infrastructure-as-code tools like Terraform.
+The purpose of this project is to familiarize myself with modern networking automation practices and to build the skills needed to implement them. My lab consists of an Adtran NetVanta 5660, Juniper SRX240, Cisco Catalyst 3650, two Ubuntu servers, and a Windows host running WSL2. The goal is to fully automate the network and servers using tools such as Ansible, Python libraries like Netmiko and NAPALM, and Netconf APIs. Future plans include extending automation into the cloud and exploring infrastructure-as-code tools like Terraform.
 
 ---
 
@@ -8,10 +8,6 @@ The purpose of this project is to familiarize myself with modern networking auto
 
 - [Project Structure](#project-structure)
 - [Lab Journal](#lab-journal)
-- [Getting Started](#getting-started)
-- [Automation Scripts](#automation-scripts)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
