@@ -1,0 +1,3 @@
+[submodule "scripts/python/network-backup-tool"]
+	path = scripts/python/network-backup-tool
+	url = https://github.com/inside-rust-lab/network-backup-tool.git
