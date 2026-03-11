@@ -25,3 +25,4 @@ The purpose of this project is to familiarize myself with modern networking auto
 Detailed step-by-step notes and lab progress are maintained in the `docs/` folder. Each entry is timestamped or labeled by the date:
 
 - [Day 1 - Initial Lab Setup](docs/2026-03-04-lab-setup.md)
+- [Day 2 - Netmiko Integration](docs/2026-03-11-netmiko-integration.md)
