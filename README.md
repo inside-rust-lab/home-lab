@@ -26,3 +26,4 @@ Detailed step-by-step notes and lab progress are maintained in the `docs/` folde
 
 - [Day 1 - Initial Lab Setup](docs/2026-03-04-lab-setup.md)
 - [Day 2 - Netmiko Integration](docs/2026-03-11-netmiko-integration.md)
+- [Day 3 - Backup Tool v1.0](docs/2026-03-12-backup-tool-v1.0.md)
